@@ -1,7 +1,9 @@
 {
 	"private": true,
 	"scripts": {
-		"build": "node build.mjs"
+		"build": "node build.mjs",
+		"watch": "nodemon",
+		"http-server": "http-server ./dist -c-1 2> /dev/null"
 	},
 	"dependencies": {
 		"@swc/helpers": "^0.4.14"

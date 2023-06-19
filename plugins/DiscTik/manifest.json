@@ -1,0 +1,14 @@
+{
+    "name": "DiscTik",
+    "description": "RP-Tik for Vendetta :)",
+    "authors": [
+        {
+            "name": "Wme",
+            "id": "865632950443835392"
+        }
+    ],
+    "main": "/index.ts",
+    "vendetta": {
+        "icon": "img_account_sync_tiktok_dark"
+    }
+}
